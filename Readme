@@ -1,0 +1,4 @@
+Upload StandardFirmata to ardriuno
+then connnect components to ardriuno
+run js script from commandline from pc
+    eg.   node scriptName.js
